@@ -1915,14 +1915,14 @@
       <pes pesize="L" compset="any">
 	<comment>none</comment>
 	<ntasks>
-	  <ntasks_atm>-29</ntasks_atm>
+	  <ntasks_atm>-28</ntasks_atm>
 	  <ntasks_lnd>-8</ntasks_lnd>
-	  <ntasks_rof>-4</ntasks_rof>
-	  <ntasks_ice>-3</ntasks_ice>
-	  <ntasks_ocn>-3</ntasks_ocn>
+	  <ntasks_rof>-8</ntasks_rof>
+	  <ntasks_ice>-4</ntasks_ice>
+	  <ntasks_ocn>-4</ntasks_ocn>
 	  <ntasks_glc>-1</ntasks_glc>
 	  <ntasks_wav>-1</ntasks_wav>
-	  <ntasks_cpl>-29</ntasks_cpl>
+	  <ntasks_cpl>-28</ntasks_cpl>
 	</ntasks>
 	<nthrds>
 	  <nthrds_atm>1</nthrds_atm>
@@ -1937,9 +1937,9 @@
 	<rootpe>
 	  <rootpe_atm>0</rootpe_atm>
 	  <rootpe_lnd>0</rootpe_lnd>
-	  <rootpe_rof>-8</rootpe_rof>
-	  <rootpe_ice>-29</rootpe_ice>
-	  <rootpe_ocn>-29</rootpe_ocn>
+	  <rootpe_rof>0</rootpe_rof>
+	  <rootpe_ice>-8</rootpe_ice>
+	  <rootpe_ocn>-28</rootpe_ocn>
 	  <rootpe_glc>0</rootpe_glc>
 	  <rootpe_wav>0</rootpe_wav>
 	  <rootpe_cpl>0</rootpe_cpl>
